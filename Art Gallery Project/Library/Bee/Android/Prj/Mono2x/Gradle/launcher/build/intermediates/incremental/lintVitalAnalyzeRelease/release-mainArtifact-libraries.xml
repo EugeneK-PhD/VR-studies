@@ -1,0 +1,45 @@
+<libraries>
+  <library
+      name="/Users/anchitmishra/Art Gallery Project/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary::release"
+      jars="/Users/anchitmishra/Art Gallery Project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/4ffff10a1354990465cebea738b996bc/transformed/out/jars/classes.jar:/Users/anchitmishra/Art Gallery Project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/4ffff10a1354990465cebea738b996bc/transformed/out/jars/libs/unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="/Users/anchitmishra/Art Gallery Project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/4ffff10a1354990465cebea738b996bc/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:/Users/anchitmishra/Art Gallery Project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar:unspecified@jar"
+      jars="/Users/anchitmishra/Art Gallery Project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar"
+      resolved="__local_aars__:/Users/anchitmishra/Art Gallery Project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar:unspecified"/>
+  <library
+      name=":OVRPlugin:@aar"
+      jars="/Users/anchitmishra/.gradle/caches/transforms-3/73fc14940d732a79bf843009165548dd/transformed/OVRPlugin/jars/classes.jar"
+      resolved=":OVRPlugin:"
+      folder="/Users/anchitmishra/.gradle/caches/transforms-3/73fc14940d732a79bf843009165548dd/transformed/OVRPlugin"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="/Users/anchitmishra/Art Gallery Project/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+      jars="/Users/anchitmishra/Art Gallery Project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/build/.transforms/a4f5a1421abf8649a05a72382c33afc3/transformed/out/jars/classes.jar"
+      resolved="Gradle.unityLibrary:xrmanifest.androidlib:unspecified"
+      folder="/Users/anchitmishra/Art Gallery Project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/build/.transforms/a4f5a1421abf8649a05a72382c33afc3/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>
